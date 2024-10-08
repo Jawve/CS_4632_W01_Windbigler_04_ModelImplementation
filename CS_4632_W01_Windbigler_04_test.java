@@ -1,7 +1,7 @@
 import java.awt.Robot;
 import java.awt.event.KeyEvent;
 
-public class test {
+public class CS_4632_W01_Windbigler_04_test{
     public static void main(String[] args) throws Exception {
         Robot robot = new Robot();
         
