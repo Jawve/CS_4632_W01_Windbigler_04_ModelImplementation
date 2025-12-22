@@ -41,3 +41,6 @@ Built as a school/simulation assignment and packaged for convenient use.
 
 ```bash
 python MouseMacroBuilder.py
+```
+
+*To Download, There is a Installer located in the /Dist Directory, download the exe file and it will install everything needed to run*
